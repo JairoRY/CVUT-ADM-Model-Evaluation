@@ -1,6 +1,6 @@
 # Model Evaluation and Data Mining
 
-This repository contains materials for advanced data mining and model evaluation. The project was developed as part of the Advanced Data Mining (ADM) course at the Czech Technical University (CVUT) in Prague, during an academic exchange from the Universitat Politècnica de Catalunya (UPC).
+This repository contains materials for advanced data mining and model evaluation. The project was developed as part of the Data Mining Algorithms (ADM) course at the Czech Technical University (CVUT) in Prague, during an academic exchange from the Universitat Politècnica de Catalunya (UPC).
 
 The primary focus of this tutorial is the application of machine learning techniques to predict outcomes from a bank marketing dataset, followed by a rigorous evaluation of the model performance using various metrics.
 
